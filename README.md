@@ -31,8 +31,6 @@ attribute_type: Defines attribute types (e.g., text, number, boolean).
 ## Sample Data:
 Added brands like Safaricom, products like a router (KES 4999.00), and variations (e.g., T-Shirt in S/Black).
 
-
-
 # Nomakha Dlomo – Database Testing & Attribute Tables
 
 ## Tables Created:
