@@ -65,7 +65,6 @@ JOIN
 
 
 ## Setup Instructions
-
 Clone the Repository:git clone https://github.com/WAIYAH/GRP-96-Ecommerce-DB-Design.git
 cd GRP-96-Ecommerce-DB-Design
 
@@ -76,21 +75,15 @@ Run the SQL script:mysql -u your_username -p < sql/ecommerce.sql
 
 
 Enter your MySQL password to create the ecommerce database and tables.
-
-
 Verify the Database:
 Connect to MySQL:mysql -u your_username -p
 
 
 Use the database:USE ecommerce;
-
-
 Run queries to test (e.g., Nomakha’s sample query above).
 
 
-
 ## ERD Explanation
-
 The initial ERD draft is in diagrams/ecommerce_erd.drawio (created by Lucky).
 Pending Refinement: Precious is tasked with adding constraints (e.g., NOT NULL, UNIQUE) and finalizing the ERD.
 Structure:
