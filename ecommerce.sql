@@ -1,4 +1,3 @@
--- This SQL script creates the database schema for an ecommerce platform.
 -- Create the ecommerce database
 CREATE DATABASE ecommerce;
 USE ecommerce;
